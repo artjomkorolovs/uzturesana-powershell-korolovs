@@ -1,0 +1,2 @@
+﻿Kludu skaits pedejo 48 stundu laika: 26
+Biezakais kludu avots: Microsoft-Windows-DeviceAssociationService (21 reizes)

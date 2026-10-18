@@ -1,0 +1,7 @@
+﻿Serviss: AppXSvc (Служба развертывания AppX (AppXSVC))
+Serviss: AsusUpdateCheck (AsusUpdateCheck)
+Serviss: edgeupdate (Microsoft Edge Update Service (edgeupdate))
+Serviss: GoogleUpdaterInternalService157.0.8089.0 (Внутренний сервис Google Updater (GoogleUpdaterInternalService157.0.8089.0))
+Serviss: GoogleUpdaterService157.0.8089.0 (Сервис Google Updater (GoogleUpdaterService157.0.8089.0))
+Serviss: MapsBroker (Диспетчер скачанных карт)
+Serviss: sppsvc (Защита программного обеспечения)

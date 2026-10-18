@@ -1,0 +1,4 @@
+﻿Darbojosos servisu skaits: 108
+Aptureto servisu skaits: 165
+Abu skaitu summa: 273
+Visu atrasto servisu skaits: 273

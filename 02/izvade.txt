@@ -1,0 +1,10 @@
+﻿Process: MsMpEng | ID: 4240 | AtmiЕ†a: 199.7 MB
+Process: PhoneExperienceHost | ID: 13372 | AtmiЕ†a: 277.8 MB
+Process: chrome | ID: 12192 | AtmiЕ†a: 302.8 MB
+Process: chrome | ID: 4696 | AtmiЕ†a: 313.1 MB
+Process: chrome | ID: 10072 | AtmiЕ†a: 325.1 MB
+Process: chrome | ID: 11144 | AtmiЕ†a: 364 MB
+Process: chrome | ID: 4700 | AtmiЕ†a: 442.9 MB
+Process: chrome | ID: 9696 | AtmiЕ†a: 455.8 MB
+Process: explorer | ID: 8020 | AtmiЕ†a: 491.2 MB
+Process: chrome | ID: 11452 | AtmiЕ†a: 745.2 MB

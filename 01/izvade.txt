@@ -1,0 +1,5 @@
+﻿Datora nosaukums: ADEL
+Operetajsistema: Майкрософт Windows 11 Домашняя (Build: 26300)
+PowerShell versija: 5.1.26100.9711
+Pasreizejais datums un laiks: 18.10.2026 21:42:43
+Aktivo procesu skaits: 191
